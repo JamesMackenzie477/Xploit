@@ -1,0 +1,11 @@
+D:\Projects\C#\Xploit\Xploit\bin\Debug\Xploit.exe.config
+D:\Projects\C#\Xploit\Xploit\bin\Debug\Xploit.exe
+D:\Projects\C#\Xploit\Xploit\bin\Debug\Xploit.pdb
+D:\Projects\C#\Xploit\Xploit\obj\Debug\Xploit.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Xploit\Xploit\obj\Debug\Xploit.Properties.Resources.resources
+D:\Projects\C#\Xploit\Xploit\obj\Debug\Xploit.csproj.GenerateResource.Cache
+D:\Projects\C#\Xploit\Xploit\obj\Debug\Xploit.exe
+D:\Projects\C#\Xploit\Xploit\obj\Debug\Xploit.pdb
+D:\Projects\C#\Xploit\Xploit\bin\Debug\ExploitTools.dll
+D:\Projects\C#\Xploit\Xploit\obj\Debug\Xploit.MainWindow.resources
+D:\Projects\C#\Xploit\Xploit\obj\Debug\Xploit.ProcessWindow.resources

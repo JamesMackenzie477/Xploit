@@ -1,0 +1,12 @@
+D:\Projects\C#\Xploit\Xploit\bin\x64\Debug\Xploit.exe.config
+D:\Projects\C#\Xploit\Xploit\bin\x64\Debug\ExploitTools.dll
+D:\Projects\C#\Xploit\Xploit\bin\x64\Debug\Xploit.exe
+D:\Projects\C#\Xploit\Xploit\bin\x64\Debug\Xploit.pdb
+D:\Projects\C#\Xploit\Xploit\obj\x64\Debug\Xploit.MainWindow.resources
+D:\Projects\C#\Xploit\Xploit\obj\x64\Debug\Xploit.ProcessWindow.resources
+D:\Projects\C#\Xploit\Xploit\obj\x64\Debug\Xploit.Properties.Resources.resources
+D:\Projects\C#\Xploit\Xploit\obj\x64\Debug\Xploit.csproj.GenerateResource.Cache
+D:\Projects\C#\Xploit\Xploit\obj\x64\Debug\Xploit.exe
+D:\Projects\C#\Xploit\Xploit\obj\x64\Debug\Xploit.pdb
+D:\Projects\C#\Xploit\Xploit\obj\x64\Debug\Xploit.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Xploit\Xploit\obj\x64\Debug\Xploit.InjectWindow.resources
